@@ -5,5 +5,5 @@ In this project I created Firewall rules within Linux to block a host device as 
 # Result
 ![image](https://github.com/user-attachments/assets/31d95e1c-08e4-4c18-9ff8-3dd24793e3b9)
 # Rule To Block Website
-
+![image](https://github.com/user-attachments/assets/35ca08b5-b075-492f-b608-5dde84e284dd)
 # Result
